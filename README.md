@@ -46,7 +46,7 @@ Acknowledgements
 © 2016, Fyelix Schurley. Released under the [MIT 
 License](http://www.opensource.org/licenses/mit-license.php).
 
-**BIN+** is authored and maintained by [Fyelix Schurley][rsc] with help from its 
+**RFO+** is authored and maintained by [Fyelix Schurley][rsc] with help from its 
 [contributors][c].
 
  * [My website](http://fyel.us) (fyel.us)
